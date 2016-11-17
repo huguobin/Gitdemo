@@ -23,6 +23,7 @@
     
     
     //这是新的
+    UIButton * btn =[[UIButton alloc]init];
 }
 
 
