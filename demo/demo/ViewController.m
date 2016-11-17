@@ -23,6 +23,7 @@
     
     
     //这是新的
+    UILabel * lalbe =[[UILabel alloc]init];
 }
 
 
